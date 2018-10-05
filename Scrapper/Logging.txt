@@ -1,0 +1,8 @@
+Okt 05, 2018 3:02:24 PM WebScrapper scrapeTheWeb
+FEIN: 1538744544923:https://streamsrv55.feratel.co.at/streams/1/05132_5bb75d46-6a07Vid.mp4?dcsdesign=feratel4
+Okt 05, 2018 3:03:25 PM WebScrapper scrapeTheWeb
+FEIN: 1538744605090:https://streamsrv55.feratel.co.at/streams/1/05132_5bb75d46-6a07Vid.mp4?dcsdesign=feratel4
+Okt 05, 2018 3:04:25 PM WebScrapper scrapeTheWeb
+FEIN: 1538744665184:https://streamsrv05.feratel.co.at/streams/1/05132_5bb75d46-6a07Vid.mp4?dcsdesign=feratel4
+Okt 05, 2018 3:05:25 PM WebScrapper scrapeTheWeb
+FEIN: 1538744725262:https://streamsrv05.feratel.co.at/streams/1/05132_5bb75d46-6a07Vid.mp4?dcsdesign=feratel4
